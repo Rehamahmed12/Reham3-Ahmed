@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<head>
+    <title>Travel Diary</title>
+	<link rel = "stylesheet" href = "style1.css">
+</head>
+<body>
+<header>
+    <h1> the places I've travelled to</h1>
+    <nav>
+        <ul>
+            <li><a href="#france">france</a></li>
+            <li><a href="#china">china</a></li>
+            <li><a href="#america">south America</a></li>
+        </ul>
+    </nav>
+</header>
+
+<main>
+    <section id="France">
+        <h2>France</h2>
+		<h3>paris</h3>
+		<p>paris is in the exact center of France so its location is perfect to discover the country. If you spend a few days in the capital we recommend taking at least one day trip from Madrid. You will be surprised by some unique UNESCO Heritage towns, castles, but also lesser-known villages that are just an hour away from the metropolis.</p>
+		<figure><img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fsteemit.com%2Ftravel%2F%40heyitshaas%2Faround-the-world-12-the-best-cities-in-the-world-paris-15-picks&psig=AOvVaw1TZtEvwjQYYO9r85tCfJi_&ust=1711196206598000&source=images&cd=vfe&opi=89978449&ved=0CBQQjhxqFwoTCJD_5OPsh4UDFQAAAAAdAAAAABBB class =" style="width:300px;height:300px;"> </figure>
+		<h3>china</h3>
+		<p>I hated china.<p>
+		<h3>newyork</h3>
+		<p>newyork was an all-round, alright experience, nothing especially amazing but nothing especially bad either.<p>
+	    <h3>Summary</h3>
+        <p>So, after travelling to Europe, more specifically madrid,italia , and newyork, I've summarized my opinions of them in the following table:</p>
+    </table>
+</section>
+<br>
+<br>
+
+<section id="France">
+    <h2>France</h2>
+    <p>I only went to Paris and Marseille and Loyon when I was in France.</p>
+    <p>Here's what I think of them:</p>
+    <table>
+        <tr>
+            <td class = "empty"></td>
+            <td class = "heads">Food</td>
+            <td class = "heads">Weather</td>
+            <td class = "heads">Shopping</td>
+        </tr>
+        <tr>
+            <td class = "heads">Paris</td>
+            <td>Horrible</td>
+            <td>Excellent</td>
+            <td>Terrific</td>
+        </tr>
+        <tr>
+            <td class = "heads">Marseille</td>
+            <td>Horrible</td>
+            <td>Good</td>
+            <td>Excellent</td>
+        </tr>
+        <tr>
+            <td class = "heads">Loyon</td>
+            <td>Excellent</td>
+            <td>Scary</td>
+            <td>Horrible</td>
+        </tr>
+        
+    </table>
+</section>
+<br>
+<br>
+
+    <section id="China">
+        <h2>China</h2>
+        <h3>Shanghai</h3>
+		<p>Supposedly, the Shanghai are supposed to take over the world by the 2030s, only logical for someone to at least visit.</p>
+		<h3></h3>
+		<p>Some of the toughest weather I've ever experienced but one of the most serene atmospheres I've ever lived.</p>
+		<figure><img src = "https://www.google.com/url?sa=i&url=http%3A%2F%2Ft0.gstatic.com%2Flicensed-image%3Fq%3Dtbn%3AANd9GcS64DILXwn3YydrMiQOUcYPISDHWv3eaGK2Xhk7O9K45spI4Sx411NXwGgqTJkjyhI1&psig=AOvVaw1AFnWjU9wNanpXw-gg_ltT&ust=1711194293880000&source=images&cd=vfe&opi=89978449&ved=0CBMQjhxqFwoTCJihnqboh4UDFQAAAAAdAAAAABAE class=" style="width:300px;height:300px;"></figure>
+        <h3>Shanghai</h3>
+		<figure><img src ="https://www.google.com/url?sa=i&url=http%3A%2F%2Ft2.gstatic.com%2Flicensed-image%3Fq%3Dtbn%3AANd9GcTdHMglyEvCjh6Op6CT1YsgtErVdVHKm5lIWTQyTF35zg3AwPiuHf-5KSAWR-4jVg-x&psig=AOvVaw1AFnWjU9wNanpXw-gg_ltT&ust=1711194293880000&source=images&cd=vfe&opi=89978449&ved=0CBMQjhxqFwoTCJihnqboh4UDFQAAAAAdAAAAABAM class=" style="width:300px;height:300px;"></figure>
+        <h3>Shenzhen</h3>
+        <p>A budding superpower, weather doesn't let that on though.</p>
+		<h3>Summary</h3>
+		<table>
+			<tr>
+				<td class = "empty"></td>
+				<td class = "heads">Food</td>
+				<td class = "heads">Weather</td>
+				<td class = "heads">Shopping</td>
+			</tr>
+			<tr>
+				<td class = "heads">Shanghai</td>
+				<td>Good & Bad</td>
+				<td>Horrible</td>
+				<td>Below average</td>
+			</tr>
+			<tr>
+				<td class = "heads">Beijing</td>
+				<td>Average</td>
+				<td>Horrible</td>
+				<td>Terrific</td>
+			</tr>
+			<tr>
+				<td class = "heads">Shenzhen</td>
+				<td>Good</td>
+				<td>Scary</td>
+				<td>Good</td>
+			</tr>
+		</table>
+    </section>
+<br>
+<br>
+      <section id="america">
+        <h2>Americas</h2>
+        <p>I only went to Brazil and Argentina and Colombia when I was in south America.</p>
+		<p>Here's what I think of them:</p>
+		<table>
+			<tr>
+				<td class = "empty"></td>
+				<td class = "heads">Food</td>
+				<td class = "heads">Weather</td>
+				<td class = "heads">Shopping</td>
+			</tr>
+			<tr>
+				<td class = "heads">Brazil</td>
+				<td>Horrible</td>
+				<td>Excellent</td>
+				<td>Terrific</td>
+			</tr>
+			<tr>
+				<td class = "heads">Argentina</td>
+				<td>Horrible</td>
+				<td>Good</td>
+				<td>Excellent</td>
+			</tr>
+            <tr>
+				<td class = "heads">Colombia</td>
+				<td>Excellent</td>
+				<td>Scary</td>
+				<td>Horrible</td>
+			</tr>
+        </table>
+</main>
+<br>
+<footer>
+	<h2>Contact</h2>
+	<p>If you'd like to contact me, send me a message here!</p>
+	<form action = "#">
+		<label>Your Email:</label> <input type = "text"><br>
+		<label>Your Message:</label> <input type = "text"><br>
+		<input type = "submit" value = "Confirm!">
+	</form>
+</footer>
+</body>
+</html>
